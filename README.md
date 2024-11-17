@@ -40,7 +40,7 @@ Follow these steps to run the scripts:
   ```bash
   python assessment1.py
   ```
-  Enter the folder path when prompted.
+  -Enter the folder path when prompted.
 - **Example**: If the folder contains:
   - `image1.jpg`, `document.txt`, `report.pdf`
   
@@ -54,8 +54,9 @@ Follow these steps to run the scripts:
 - **Objective**: Compress the folder into a `.zip` file, keeping all files and subfolders.
 - **Command**:
   ```bash
-  python assessment2.py <folder_path>
+  python assessment2.py
   ```
+  - Enter the folder path when prompted.
 - **Example**: If the folder contains:
   ```
   my_folder/
@@ -72,8 +73,10 @@ Follow these steps to run the scripts:
 - **Objective**: Arrange 4 images in a 2x2 grid and save them as one collage image.
 - **Command**:
   ```bash
-  python assessment3.py <image1> <image2> <image3> <image4>
+  python assessment3.py
   ```
+  - Enter the paths for four images when prompted.
+  - Specify the output file name (e.g., collage.jpg).
 - **Example**: If the input images are `image1.jpg`, `image2.jpg`, `image3.jpg`, and `image4.jpg`, the program will create a collage image like:
 
   | Image 1 | Image 2 |
