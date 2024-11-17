@@ -105,17 +105,17 @@ cd medprime-assignments
 ### Run the Scripts:
 - For **Assignment 1**:
   ```bash
-  python assessment1.py <folder_path>
+  python assessment1.py 
   ```
 
 - For **Assignment 2**:
   ```bash
-  python assessment2.py <folder_path>
+  python assessment2.py
   ```
 
 - For **Assignment 3**:
   ```bash
-  python assessment3.py <image1> <image2> <image3> <image4>
+  python assessment3.py
   ```
 
 ---
