@@ -134,6 +134,6 @@ This project is licensed under the **MIT License**.
 
 If you have any questions, feel free to reach out:
 - **Email**: [kambletanaya18@gmail.com](mailto:your-email@example.com)
-- **GitHub**: [tanayakamble2001](https://github.com/yourusername)
+- **GitHub**: [tanayakamble2001](https://github.com/tanayakamble2001)
 
 ---
