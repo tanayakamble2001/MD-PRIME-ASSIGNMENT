@@ -1,6 +1,6 @@
 # MedPrime Technologies Programming Assignments
 
-This repository contains solutions to Python programming assignments focused on file handling, zipping directories, and image processing. These tasks aim to improve problem-solving skills and proficiency in Python.
+These assignments focus on file handling, zipping directories, and image processing areas that are sure to enhance our problem-solving skills and boost our proficiency in Python.
 
 ### Tasks:
 1. **Assignment 1**: Renaming Files Sequentially
