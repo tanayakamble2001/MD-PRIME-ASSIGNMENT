@@ -122,17 +122,11 @@ cd medprime-assignments
 
 ---
 
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository, make your changes, and submit a pull request.
-
----
-
 ## Contact
 
 If you have any questions, feel free to reach out:
 - **Name**: Tanaya Kamble
-- **Email**: [kambletanaya18@gmail.com](mailto:your-email@example.com)
+- **Email**: [kambletanaya18@gmail.com](mailto:kambletanaya18@gmail.com)
 - **GitHub**: [tanayakamble2001](https://github.com/tanayakamble2001)
 
 ---
