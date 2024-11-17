@@ -40,7 +40,7 @@ Follow these steps to run the scripts:
   ```bash
   python assessment1.py
   ```
-  -Enter the folder path when prompted.
+   - Enter the folder path when prompted.
 - **Example**: If the folder contains:
   - `image1.jpg`, `document.txt`, `report.pdf`
   
