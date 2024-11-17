@@ -38,7 +38,7 @@ Follow these steps to run the scripts:
 - **Objective**: Rename all files in a folder to `1.ext`, `2.ext`, etc., while keeping their original extensions.
 - **Command**:
   ```bash
-  python rename_files.py <folder_path>
+  python assessment1.py <folder_path>
   ```
 - **Example**: If the folder contains:
   - `image1.jpg`, `document.txt`, `report.pdf`
@@ -53,7 +53,7 @@ Follow these steps to run the scripts:
 - **Objective**: Compress the folder into a `.zip` file, keeping all files and subfolders.
 - **Command**:
   ```bash
-  python zip_folder.py <folder_path>
+  python assessment2.py <folder_path>
   ```
 - **Example**: If the folder contains:
   ```
@@ -71,7 +71,7 @@ Follow these steps to run the scripts:
 - **Objective**: Arrange 4 images in a 2x2 grid and save them as one collage image.
 - **Command**:
   ```bash
-  python create_collage.py <image1> <image2> <image3> <image4>
+  python assessment3.py <image1> <image2> <image3> <image4>
   ```
 - **Example**: If the input images are `image1.jpg`, `image2.jpg`, `image3.jpg`, and `image4.jpg`, the program will create a collage image like:
 
@@ -103,17 +103,17 @@ cd medprime-assignments
 ### Run the Scripts:
 - For **Assignment 1**:
   ```bash
-  python rename_files.py <folder_path>
+  python assessment1.py <folder_path>
   ```
 
 - For **Assignment 2**:
   ```bash
-  python zip_folder.py <folder_path>
+  python assessment2.py <folder_path>
   ```
 
 - For **Assignment 3**:
   ```bash
-  python create_collage.py <image1> <image2> <image3> <image4>
+  python assessment3.py <image1> <image2> <image3> <image4>
   ```
 
 ---
@@ -133,6 +133,7 @@ This project is licensed under the **MIT License**.
 ## Contact
 
 If you have any questions, feel free to reach out:
+- **Name**: Tanaya Kamble
 - **Email**: [kambletanaya18@gmail.com](mailto:your-email@example.com)
 - **GitHub**: [tanayakamble2001](https://github.com/tanayakamble2001)
 
