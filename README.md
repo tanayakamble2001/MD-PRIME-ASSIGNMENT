@@ -16,8 +16,6 @@ These assignments focus on file handling, zipping directories, and image process
 - [Assignment 3: Creating a Collage from 4 Images](#assignment-3-creating-a-collage-from-4-images)
 - [Prerequisites](#prerequisites)
 - [Usage Instructions](#usage-instructions)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
