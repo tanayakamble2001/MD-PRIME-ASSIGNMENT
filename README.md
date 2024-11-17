@@ -38,8 +38,9 @@ Follow these steps to run the scripts:
 - **Objective**: Rename all files in a folder to `1.ext`, `2.ext`, etc., while keeping their original extensions.
 - **Command**:
   ```bash
-  python assessment1.py <folder_path>
+  python assessment1.py
   ```
+  Enter the folder path when prompted.
 - **Example**: If the folder contains:
   - `image1.jpg`, `document.txt`, `report.pdf`
   
